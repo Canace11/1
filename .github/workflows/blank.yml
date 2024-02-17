@@ -1,0 +1,16 @@
+```mermaid  
+graph TB  
+subgraph "建构主义下的课堂教学理论框架"  
+A["情境"]  
+B["协作"]  
+C["交流"]  
+D["意义建构"]  
+end  
+A --> B  
+B --> C  
+C --> D  
+A --> D  
+style A fill:#f9f,stroke:#333,stroke-width:2px  
+style B fill:#ccf,stroke:#f66,stroke-width:2px  
+style C fill:#ccf,stroke:#6f6,stroke-width:2px  
+style D fill:#ccf,stroke:#66f,stroke-width:2px
